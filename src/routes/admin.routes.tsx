@@ -30,6 +30,7 @@ export const adminPaths = [
           path: 'create-academic-semester',
           element: <AdminDashboard />,
         },
+       
       ]
        
     },
